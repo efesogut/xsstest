@@ -1,1 +1,1 @@
-alert("STRX-TEST")
+prompt("STRX-TEST")
